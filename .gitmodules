@@ -16,7 +16,7 @@
 	branch = develop
 [submodule "service-index"]
 	path = service-index
-	url = https://github.com/reportportal/service-index.git
+	url = https://github.com/gleclaire/reportportal-service-index.git
 	branch = develop
 [submodule "service-auto-analyzer"]
 	path = service-auto-analyzer
