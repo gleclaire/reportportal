@@ -4,7 +4,7 @@
 	branch = develop
 [submodule "service-authorization"]
 	path = service-authorization
-	url = https://github.com/reportportal/service-authorization.git
+	url = https://github.com/gleclaire/reportportal-service-authorization.git
 	branch = develop
 [submodule "service-jobs"]
 	path = service-jobs
