@@ -20,7 +20,7 @@
 	branch = develop
 [submodule "service-auto-analyzer"]
 	path = service-auto-analyzer
-	url = https://github.com/reportportal/service-auto-analyzer
+	url = https://github.com/gleclaire/reportportal-service-auto-analyzer
 	branch = develop
 [submodule "migrations"]
 	path = migrations
